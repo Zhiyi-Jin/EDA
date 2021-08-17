@@ -8,3 +8,5 @@ Two EDA methods will be applied in the project:
 - PAM(partition around medoids) clustering: a technique that can be used to divide data into different groups, where each group is similar to one another in certain ways.
 
 This exploratory project is trying to use these classic tools, interpret their results, and, hopefully, it can explore the essence of data and the relationship between democracy and the free-market system. 
+
+*Data from: Cohen, Joseph Nathan and Joseph van der Naald. 2019. “Measuring Socialism Data Set, version 1.0.” Data Set. Retrieved (osf.io/4g37h).*
